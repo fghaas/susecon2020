@@ -1,5 +1,5 @@
 <!-- .slide: data-timing="90" -->
-# Geographical Redundancy with rbd-mirror
+## Geo-Redundancy with SUSE Enterprise Storage
 Best practices, performance  
 recommendations, and pitfalls
 
