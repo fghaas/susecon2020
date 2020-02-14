@@ -7,7 +7,7 @@ recommendations, and pitfalls
 
 Florian Haas | [@xahteiwi](https://twitter.com/xahteiwi)
 
-Cephalocon 2019 | 2019-05-20
+SUSECON 2020 | 2020-03-25
 
 <!-- Note --> 
 rbd-mirror is a Ceph feature that’s been around for 3 years — since
