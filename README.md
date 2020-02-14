@@ -1,13 +1,13 @@
-# Geographical Redundancy with rbd-mirror
+# Geographical Redundancy with SUSE Enterprise Storage
 Best practices, performance recommendations, and pitfalls
 
-Cephalocon 2019 presentation on Ceph RBD mirroring
+SUSECON 2020 presentation on Ceph RBD mirroring
 
 * * *
 
-Presented by Florian Haas at Cephalocon 2019, 2019-05-20
+Presented by Florian Haas at SUSECON 2020, 2020-03-25
 
-Rendered slides from this presentation are at <https://fghaas.github.io/cephalocon2019-rbdmirror>.
+Rendered slides from this presentation are at <https://fghaas.github.io/susecon2020>.
 
 * * *
 
