@@ -15,9 +15,9 @@ licensed, under the terms of the CC Attribution-ShareAlike license.
 
 <!-- .slide: data-timing="180" -->
 ## Slides URL <!-- .element: class="hidden" -->
-<https://fghaas.github.io/cephalocon2019-rbdmirror>
+<https://fghaas.github.io/susecon2020>
 
-<https://fghaas.github.io/cephalocon2019-rbdmirror/#intro> <!-- .element: class="qrcode" -->
+<https://fghaas.github.io/susecon2020/#intro> <!-- .element: class="qrcode" -->
 
 <!-- Note --> 
 If you haven’t been following along, or I went too quickly over
